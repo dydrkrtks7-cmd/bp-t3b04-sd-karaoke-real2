@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yeouido-massage-note.hwagok-karaoke-insider.xyz/sitemap.xml
+Sitemap: https://yeouido-massage-note.hwagok-karaoke-insider.xyz/sitemap-pages.xml
